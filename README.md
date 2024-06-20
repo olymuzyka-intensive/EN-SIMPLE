@@ -1,3 +1,19 @@
+# IN-SIMPLE
+
+## ИСПОЛЬЗУЕМЫЕ ТЕХНОЛОГИИ:
+> + HTML
+> + CSS
+> + React Vite
+> + Flex
+> + Адаптивная верстка
+
+## DEMO
+![demo](https://github.com/olymuzyka-intensive/EN-SIMPLE/assets/137098489/fd6030f1-b66e-4efc-bf9b-49a2d1f41f7c)
+
+## PUBLIC
+скоро
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
