@@ -1,0 +1,62 @@
+@media (min-width: 768px) {
+    .title {
+        font-size: 36px;
+    }
+
+    .formAddWord {
+        gap: 15px;
+        align-items: center;
+        flex-direction: row;
+        
+        justify-content: center;
+    }
+
+    input {
+        width: 270px;
+        height: 65px;
+        padding-left: 25px;
+    }
+
+    input::placeholder {
+        font-size: 20px;
+    }
+
+    .btnAdd {
+        width: 85px;
+        height: 85px;
+        font-size: 44px;
+    }
+
+    .words {
+        margin-top: 85px;
+        margin: 40px auto;
+        /* padding-right: 120px;
+        padding-left: 75px; */
+    }
+
+    .word__ru_title, .word__in_title {
+        font-size: 36px;
+    }
+
+    .word__item {
+        font-size: 24px;
+    }
+
+    th, td {
+        padding-left: 65px;
+    }
+
+    .word__btns {
+        display: flex;
+        gap: 30px;
+        padding-left: 0;
+    }
+    
+}
+
+@media (min-width: 800px) {
+    .words {
+        width: 720px;
+       
+    }
+}
