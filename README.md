@@ -9,8 +9,6 @@
 > + API
 
 ## DEMO
-https://in-simple.vercel.app/
-## DEMO
 ![demo](https://github.com/olymuzyka-intensive/EN-SIMPLE/assets/137098489/fd6030f1-b66e-4efc-bf9b-49a2d1f41f7c)
 
 ## React + Vite
